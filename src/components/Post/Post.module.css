@@ -1,5 +1,6 @@
 .post {
-  background: var(--gray-800);
+  background: var(--white);
+  
   border-radius: 8px;
   padding: 2.5rem;
 }
@@ -10,7 +11,7 @@
 
 .content {
   line-height: 1.6;
-  color: var(--gray-300);
+  color: var(--gray-800);
   margin-top: 1.5rem;
 }
 
@@ -20,12 +21,12 @@
 
 .content a {
   font-weight: bold;
-  color: var(--flag-pink-500);
+  color: var(--flag-blue-200);
   text-decoration: none;
 }
 
 .content a:hover {
-  color: var(--flag-pink-200);
+  color: var(--flag-blue-500);
 }
 
 .post > header {
@@ -73,13 +74,13 @@
 
 .commentForm textarea {
   width: 100%;
-  background: var(--gray-900);
+  background: var(--gray-100);
   border: 0;
   resize: none;
   height: 6rem;
   padding: 1rem;
   border-radius: 8px;
-  color: var(--gray-100);
+  color: var(--gray-900);
   line-height: 1.4;
   margin-top: 1rem;
 }

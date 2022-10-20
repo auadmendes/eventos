@@ -1,6 +1,6 @@
 .header {
-  background: var(--gray-800);
-  /* color: var(---gray-100); */
+  background: var(--white);
+  color: var(--gray-800);
 
   display: flex;
   justify-content: center;
