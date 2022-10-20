@@ -1,7 +1,8 @@
 .sidebar {
-  background: var(--gray-800);
+  background: var(--white);
   border-radius: 6px;
   overflow: hidden;
+  color: var(--gray-800);
 }
 
 .cover {
@@ -39,7 +40,7 @@
 
 .sidebar footer a {
   background: transparent;
-  color: var(--flag-blue-200);
+  color: var(--flag-blue-500);
   border: 1px solid var(--flag-blue-500);
   border-radius: 8px;
   height: 50px;
